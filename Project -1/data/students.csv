@@ -1,0 +1,6 @@
+studentId,name,age,email,phone,course,marks
+S101,Aarav Sharma,20,aarav.sharma@example.com,9876543210,Java,88.5
+S102,Priya Patel,21,priya.patel@example.com,9123456780,Python,92.0
+S103,Rohan Das,19,rohan.das@example.com,9988776655,Java,67.25
+S104,Sneha Reddy,22,sneha.reddy@example.com,8899001122,Data Science,75.0
+S105,Kiran Kumar,20,kiran.kumar@example.com,7766554433,Python,38.5

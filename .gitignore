@@ -1,0 +1,15 @@
+# Compiled Java output
+out/
+*.class
+
+# Runtime files created by the app
+backup/
+*.tmp
+sources.txt
+
+# Editor / OS files
+.idea/
+.vscode/
+*.iml
+Thumbs.db
+.DS_Store
